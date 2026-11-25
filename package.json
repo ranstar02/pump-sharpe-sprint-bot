@@ -1,0 +1,1 @@
+{"description":"Sharpe-first scalper for the pump.fun bonding-curve replay (make.fun competition u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532)","license":"MIT","name":"pump-sharpe-sprint-bot","scripts":{"sim":"node tools/sim.ts","start":"node main.ts","sweep":"node tools/sweep.ts"},"type":"module","version":"1.0.0"}
